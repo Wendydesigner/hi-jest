@@ -1,7 +1,7 @@
 ## jest支持的三种测试文件
 - .test.js
 - .spec.js
-- __tests__/
+- `__tests__/`
 
 ## 异步方法和回调函数的测试
 - callback
